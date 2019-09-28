@@ -1,0 +1,16 @@
+name: app_main
+description: app_main
+version: 0.0.1
+
+environment:
+  sdk: '>=2.2.0 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  # UNCOMMENT THIS LINE AND RUN flutter run -d chrome AGAIN 
+  # protobuf:
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
